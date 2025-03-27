@@ -12,19 +12,19 @@ public class SmartTv {
         ligada = false;
     }
 
-    public void AumentarVolume(){
+    public void aumentarVolume(){
         volume ++;
     }
 
-    public void DiminuirVolume(){
+    public void diminuirVolume(){
         volume --;
     }
 
-    public void mudarCanal(){
+    public void aumentarCanal(){
         canal ++;
     }
 
-    public void MudarCanal(){
+    public void diminuirCanal(){
         canal --;
     }
     
